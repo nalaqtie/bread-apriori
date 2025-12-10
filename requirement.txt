@@ -1,6 +1,6 @@
-streamlit
-pandas
-mlxtend
+mlxtend==0.22.0
 numpy
+scipy
 scikit-learn
-
+pandas
+streamlit
