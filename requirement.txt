@@ -1,6 +1,7 @@
-mlxtend==0.22.0
+mlxtend
 numpy
 scipy
 scikit-learn
 pandas
 streamlit
+
